@@ -6,7 +6,7 @@ Install dependencies:
 npm install
 ```
 
-Start the app in the dev mode:
+Start the app in dev mode:
 
 ```bash
 npm start
