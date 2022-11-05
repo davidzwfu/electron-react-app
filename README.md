@@ -12,7 +12,7 @@ Start the app in the dev mode:
 npm start
 ```
 
-To package the app using electron-builder:
+Package the app using electron-builder (outputs to release/build):
 
 ```bash
 npm run package
