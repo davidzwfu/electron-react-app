@@ -1,5 +1,11 @@
 # electron-react-app
 
+Install dependencies:
+
+```bash
+npm install
+```
+
 Start the app in the dev mode:
 
 ```bash
